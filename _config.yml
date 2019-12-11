@@ -1,11 +1,11 @@
 # Site settings
-author: Aimee Getz
-title: 
+author: Aimee L Getz
+title: My Blog
 header-img: img/home-bg.png
 email: getzaimee@gmail.com
-copyright_name: Aimee Getz
+copyright_name: Aimee L Getz
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Why I want to become a Software_ Engineer
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: AimeeGetz1
 github_username:  Ames1977
